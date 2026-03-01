@@ -1,0 +1,1 @@
+Aplicativo offline destinado à gestão, organização e geração automatizada de documentos de apoio relacionados a Termos Circunstanciados de Ocorrência (TCO), desenvolvido em estrita conformidade com a legislação brasileira vigente, garantindo segurança, padronização e eficiência nos procedimentos. (©) Almir Bílio de Alencar
